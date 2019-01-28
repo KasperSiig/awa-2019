@@ -1,11 +1,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAjihC5R2yzsvHosA3nXx7brEdakdTUzXY',
-    authDomain: 'easv-chat-app-2019.firebaseapp.com',
-    databaseURL: 'https://easv-chat-app-2019.firebaseio.com',
-    projectId: 'easv-chat-app-2019',
-    storageBucket: 'easv-chat-app-2019.appspot.com',
-    messagingSenderId: '630753631973'
+    apiKey: 'AIzaSyAUA4BVTgOUhNX4TVxLhUY8Mx7PRirF6l8',
+    authDomain: 'morse-75aa1.firebaseapp.com',
+    databaseURL: 'https://morse-75aa1.firebaseio.com',
+    projectId: 'morse-75aa1',
+    storageBucket: 'morse-75aa1.appspot.com',
+    messagingSenderId: '562652908210'
   }
 };

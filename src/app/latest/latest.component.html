@@ -1,0 +1,2 @@
+<h2>{{messages?.length}} latest messages shown</h2>
+<h4 *ngFor="let message of messages">{{message.time}} - {{convertMessage(message.message)}}</h4>
